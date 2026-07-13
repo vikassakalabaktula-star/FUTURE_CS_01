@@ -36,6 +36,7 @@ Full details, risk classification, and remediation steps are in the report PDF.
 ## Files in this Repo
 - `report.pdf` — Full Vulnerability Assessment Report (designed in Canva)
 - `/evidence` — Screenshots from Nmap, ZAP, and DevTools
+- `readme.md`- populated with proper content
 
 ## Disclaimer
 This assessment was performed on a public test/demo application intended for security practice. No production systems or unauthorized targets were tested.
