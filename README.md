@@ -1,4 +1,4 @@
-# FUTURE_CS_01# Vulnerability Assessment Report — Zero Bank Demo Site
+# FUTURE_CS_01 - Vulnerability Assessment Report — Zero Bank Demo Site
 
 ## Overview
 This repository contains my Task 1 submission for the Future Interns Cyber Security internship — a vulnerability assessment of a public test website.
